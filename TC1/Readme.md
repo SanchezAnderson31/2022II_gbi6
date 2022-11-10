@@ -5,10 +5,10 @@ En esta actividad se va a hacer una evaluacion de lo aprendido en Unix.
 
 **Datos personales**
 
-  -Nombre: Cabrera Santiago
-  -Ciudad de origen: Tena
-  -Idiomas: Español e Ingles
-  -Deportes: Gym
+  ### -Nombre: Cabrera Santiago
+  ### -Ciudad de origen: Tena
+  ### -Idiomas: Español e Ingles
+  ### -Deportes: Gym
   
 **Especificaciones de mi PC**
 
