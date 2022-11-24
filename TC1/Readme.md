@@ -1,4 +1,4 @@
-# Tarea de clase 1 
+# Examen medio semestre
 
 <h3 align="center"><a href="https://pr/en/"> <img alt="pr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" width="300" height="150"> </a></h3>
 
