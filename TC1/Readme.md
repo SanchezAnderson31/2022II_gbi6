@@ -1,7 +1,17 @@
 # Tarea de clase 1 
-## **Datos personales**
-<h3 align="center"><a href="https://Anderson.fb/en/"> <img alt="Anderson" src="https://scontent.fuio13-1.fna.fbcdn.net/v/t39.30808-6/296123201_2275841055915194_8125809442514542042_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG5R6NK2DXpe52PglZHXbft11BQlsvUup7XUFCWy9S6npICTx7ZXr3dFQjGZSVmIUSAdZ2C8lqEr8UrgZdSF1sa&_nc_ohc=a84z4SjEjk0AX8kGQM2&_nc_ht=scontent.fuio13-1.fna&oh=00_AfDF3KRhNJkoi1Knt4HsQ_TUtog67jMQrG3ADuveQdOK0g&oe=6370DD07" width="150" height="150"> </a></h3>
 
+<h3 align="center"><a href="https://pr/en/"> <img alt="pr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" width="300" height="150"> </a></h3>
+
+## **Datos del curso**
+### Git Bash
+
+<h3 align="center"><a href="https://Git.bash/en/"> <img alt="GIT BASH" src="https://www.gitkraken.com/wp-content/uploads/2021/07/GitBashLogo.jpg.webp" width="130" height="80"> </a></h3>
+
+### Phyton
+<h3 align="center"><a href="https://Git.bash/en/"> <img alt="GIT BASH" src="https://user-images.githubusercontent.com/117690512/203672167-909f3fa8-7400-4956-a69e-5c6aeba0c6d9.png" width="200" height="80"> </a></h3> 
+
+## **Datos personales**
+ 
 ### Anderson Sánchez
 ### Edad: 22
 ### Ciudad de origen: Tabacundo
@@ -15,9 +25,3 @@
 ### **Sistema Operativo** Windows 11 Home  <a href="https://Windows/en/"> <img alt="Windows" src="https://askleo.com/wp-content/uploads/2021/06/windows11-1200x681.jpg.webp" width="100" height="55">
 ### **Tipo de sistema** Sistema operativo de 64 bits, procesador x64
 
-
-## **Programas Utilizados**
-### Git Bash
-
-<h3 align="center"><a href="https://Git.bash/en/"> <img alt="GIT BASH" src="https://www.gitkraken.com/wp-content/uploads/2021/07/GitBashLogo.jpg.webp" width="130" height="80"> </a></h3>
-<h3 align="center">En esta actividad se va hacer una evaluación aprendida en Unix</h3>
